@@ -1,2 +1,2 @@
 # descubra-DUBAI
-saiba mais sobra a história e algumas curiosidades de DUBAI.
+saiba mais sobre a história e algumas curiosidades de DUBAI.
