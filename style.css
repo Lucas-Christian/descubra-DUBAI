@@ -1,3 +1,7 @@
 body {
     background-color: #242424;
 }
+img {
+    width: auto;
+    height: 24;
+}
